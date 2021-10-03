@@ -1,0 +1,48 @@
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.csprojAssemblyReference.cache
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.Login_Form.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.Properties.Resources.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.csproj.GenerateResource.cache
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\bin\Debug\ManagementBook.exe.config
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\bin\Debug\ManagementBook.exe
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\bin\Debug\ManagementBook.pdb
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.exe
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.pdb
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.MainForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.addStudent.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentsList.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentaiStatistikaForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentaiEditRemoveForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.KursasIstrintiForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.KursasKeistiTrintiForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.KursasPridetiKursaForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiIstrintiForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiPridetiForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiRedaguotiForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiVidurkis.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.RedaguotiForm.resources
+C:\Users\X\Desktop\IS17B\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentuFormosForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\bin\Debug\ManagementBook.exe.config
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\bin\Debug\ManagementBook.exe
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\bin\Debug\ManagementBook.pdb
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.csprojAssemblyReference.cache
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.addStudent.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.KursasIstrintiForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.KursasKeistiTrintiForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.KursasPridetiKursaForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.Login_Form.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.MainForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiIstrintiForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiPridetiForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiRedaguotiForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.PazymiaiVidurkis.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.Properties.Resources.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.RedaguotiForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentaiEditRemoveForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentaiStatistikaForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentsList.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.StudentuFormosForm.resources
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.csproj.GenerateResource.cache
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.exe
+D:\Program Files (x86)\IS18S\IS18S\Praktika\FinalNotebook\ManagementBook\obj\Debug\ManagementBook.pdb
